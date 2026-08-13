@@ -26,7 +26,7 @@ The proposed software environment includes Windows 11 Pro for workstations, Ubun
 
 ## Network Diagram
 
-![Nexora Technologies Network Topology](diagrams/Week2_Network_Topology.png)
+![Nexora Technologies Network Topology](diagrams/network%20diagram.png)
 
 The network topology shows the Internet connection, ISP modem, Gigabit Router + Firewall, 24-port switch, server, NAS storage, network printer, wireless access points, and the four departments: IT, HR, Finance, and Sales.
 
